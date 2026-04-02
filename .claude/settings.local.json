@@ -4,7 +4,12 @@
       "Bash(gh auth:*)",
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git remote:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Read(//c/Users/Andy/AppData/Local/Temp/claude/C--Users-Andy-Desktop-voc-online/06ff53bc-1698-425a-9f6e-8f67d0107ce3/tasks/**)",
+      "WebFetch(domain:sites.google.com)"
     ]
   }
 }
